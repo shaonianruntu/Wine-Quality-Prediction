@@ -1,7 +1,7 @@
 # Wine-Quality-Prediction
-使用线性回归分析葡萄酒质量
+Using Linear Regression to predict wine quality(implementation by handwritten mathematical formula and call package)
 
-数据集：http://archive.ics.uci.edu/ml/datasets/Wine+Quality
+Dataset：http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 简介：数据集包括两份数据，分别是来自葡萄牙北部的红、白青葡萄酒的样本。目的是根据物理特性对葡萄酒的质量进行建模。此样本数据，仅包含物理化学特性以及人工评估质量信息，不包含葡萄的类型、酒的品牌、售价等信息。
 
