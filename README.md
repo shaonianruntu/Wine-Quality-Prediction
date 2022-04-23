@@ -1,5 +1,5 @@
 # Wine-Quality-Prediction
-Using Linear Regression to predict wine quality(implementation by handwritten mathematical formula and call package)
+Using Linear Regression to predict wine quality (implementation by handwritten mathematical formula and call package)
 
 Dataset：http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
